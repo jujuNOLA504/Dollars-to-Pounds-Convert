@@ -1,2 +1,2 @@
 # Dollars-to-Pounds-Convert
-Covert your dollars using this convert.
+Convert your dollars  to  pounds here.
